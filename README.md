@@ -1,16 +1,13 @@
 # app
 
-A new Flutter project.
+这是一个简单的flutter 学习项目，安卓壁纸的api， 简单的redux 使用，代码写的有点烂， 本来想重构的， 想想还是写新的demo 再用上那些好的规范吧。
 
-## Getting Started
+## 截图
 
-This project is a starting point for a Flutter application.
+![](./screenshot/1.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+![](./screenshot/2.jpg)
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+![](./screenshot/3.jpg)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+![](./screenshot/0.jpg)
